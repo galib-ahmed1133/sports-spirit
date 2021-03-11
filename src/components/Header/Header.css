@@ -1,0 +1,18 @@
+.header-container{
+    background: url("../../img/background.png");
+	padding-top:150px;
+	padding-bottom:150px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    text-align: center;
+    color: white;
+    /* background-attachment: fixed; */
+}
+.header-text{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 80px;
+    align-items: center;
+    margin: auto;
+    margin-bottom: 20px;
+}

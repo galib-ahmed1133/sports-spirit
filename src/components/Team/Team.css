@@ -1,0 +1,12 @@
+.card-style{
+    margin: 20px 0;
+}
+.card-title{
+    font-family: 'Montserrat', sans-serif;
+}
+.btn{
+    background-color: #C3073f;
+    color: white;
+    padding: 5px 40px;
+    border-radius: 1px;
+}
