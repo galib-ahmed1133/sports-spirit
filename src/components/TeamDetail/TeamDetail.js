@@ -1,6 +1,6 @@
 import React, { useEffect, useState } from 'react';
 import { useParams } from 'react-router';
-import teamDetailStyle from './TeamDetail.css'
+import './TeamDetail.css'
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
 import { faMapMarkerAlt, faFlag, faTransgender, faFutbol } from '@fortawesome/free-solid-svg-icons'
 import img from './img/male.png'

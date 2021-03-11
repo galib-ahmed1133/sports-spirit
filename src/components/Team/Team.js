@@ -1,6 +1,6 @@
 import React from "react";
-import { CardDeck, Card, Container, Row, Col } from "react-bootstrap";
-import leagueStyle from './Team.css'
+import {Card, Col } from "react-bootstrap";
+import './Team.css'
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
 import { faLongArrowAltRight } from '@fortawesome/free-solid-svg-icons'
 import { useHistory } from "react-router";
